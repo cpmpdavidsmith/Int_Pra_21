@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/bin/Debug/net7.0/IntPra21QueueCount
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/bin/Debug/net7.0/IntPra21QueueCount.deps.json
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/bin/Debug/net7.0/IntPra21QueueCount.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/bin/Debug/net7.0/IntPra21QueueCount.dll
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/bin/Debug/net7.0/IntPra21QueueCount.pdb
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.dll
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/refint/IntPra21QueueCount.dll
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.pdb
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/IntPra21QueueCount.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IntPra21QueueCount/IntPra21QueueCount/obj/Debug/net7.0/ref/IntPra21QueueCount.dll

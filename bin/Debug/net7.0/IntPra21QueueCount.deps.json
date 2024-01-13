@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IntPra21QueueCount/1.0.0": {
+        "runtime": {
+          "IntPra21QueueCount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntPra21QueueCount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
